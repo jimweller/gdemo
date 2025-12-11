@@ -1,2 +1,5 @@
-# gdemo
-Created by gh-repo-create.sh jimweller gdemo public  (Thu Dec 11 16:20:41 UTC 2025)
+A model named Gemini bright,
+Could code with remarkable might.
+It fixed all the bugs,
+Gave the devs virtual hugs,
+And shipped features all through the night.
